@@ -54,9 +54,9 @@ I am currently developing strong foundations in data structures, algorithms, sof
 <!-- This image is generated automatically by .github/workflows/snake.yml -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdhanavanthsaisai-creator/sdhanavanthsaisai-creator/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdhanavanthsaisai-creator/sdhanavanthsaisai-creator/output/github-contribution-grid-snake.svg" />
-    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/sdhanavanthsaisai-creator/sdhanavanthsaisai-creator/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sdhanavanthsaisai-creator/sdhanavanthsaisai-creator/gh-pages/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sdhanavanthsaisai-creator/sdhanavanthsaisai-creator/gh-pages/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution graph" src="https://raw.githubusercontent.com/sdhanavanthsaisai-creator/sdhanavanthsaisai-creator/gh-pages/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
